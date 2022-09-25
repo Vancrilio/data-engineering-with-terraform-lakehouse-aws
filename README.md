@@ -1,2 +1,2 @@
-# data-engineering-with-terraform-lakehouse-aws
- Engenharia de Dados com Teraform, Lakehouse e AWS
+# Projeto de Engenharia de Dados com Terraform, Lakehouse e AWS
+ Engenharia de Dados com Terraform, Lakehouse e AWS
